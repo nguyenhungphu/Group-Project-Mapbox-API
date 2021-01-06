@@ -1,0 +1,579 @@
+{
+  "type": "FeatureCollection",
+  "query": [
+    "kfc"
+  ],
+  "features": [
+    {
+      "id": "poi.257698052505",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "wikidata": "Q5470447",
+        "category": "airport",
+        "landmark": true,
+        "foursquare": "4bf7f6395ec320a1e1c987d3",
+        "maki": "airport"
+      },
+      "text": "Forrest City Municipal Airport",
+      "place_name": "Forrest City Municipal Airport, Forrest City, Arkansas 72335, United States",
+      "matching_text": "KFCY",
+      "matching_place_name": "KFCY, Forrest City, Arkansas 72335, United States",
+      "center": [
+        -90.7747225,
+        34.942037
+      ],
+      "geometry": {
+        "coordinates": [
+          -90.7747225,
+          34.942037
+        ],
+        "type": "Point"
+      },
+      "context": [
+        {
+          "id": "postcode.9223914148639290",
+          "text": "72335"
+        },
+        {
+          "id": "place.13827841128774460",
+          "wikidata": "Q79403",
+          "text": "Forrest City"
+        },
+        {
+          "id": "region.11813597610087930",
+          "wikidata": "Q1612",
+          "short_code": "US-AR",
+          "text": "Arkansas"
+        },
+        {
+          "id": "country.19678805456372290",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "poi.274877956766",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "4ccc5b18aa25a35deb4b140f",
+        "landmark": true,
+        "address": "Universiteitsplein",
+        "category": "soccer stadium, soccer, leisure"
+      },
+      "text": "KFCO Beerschot Wilrijk",
+      "place_name": "KFCO Beerschot Wilrijk, Universiteitsplein, Antwerpen, Antwerp 2610, Belgium",
+      "center": [
+        4.402392,
+        51.1646
+      ],
+      "geometry": {
+        "coordinates": [
+          4.402392,
+          51.1646
+        ],
+        "type": "Point"
+      },
+      "context": [
+        {
+          "id": "postcode.8408728122697230",
+          "text": "2610"
+        },
+        {
+          "id": "locality.10252135747423590",
+          "wikidata": "Q2687417",
+          "text": "Wilrijk"
+        },
+        {
+          "id": "place.13854421078813520",
+          "wikidata": "Q12892",
+          "text": "Antwerpen"
+        },
+        {
+          "id": "region.9941923600813520",
+          "wikidata": "Q1116",
+          "short_code": "BE-VAN",
+          "text": "Antwerp"
+        },
+        {
+          "id": "country.1494593798110250",
+          "wikidata": "Q31",
+          "short_code": "be",
+          "text": "Belgium"
+        }
+      ]
+    },
+    {
+      "id": "poi.60129606984",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "4bee2bc0946c0f47fe9aa363",
+        "landmark": true,
+        "address": "Jimbaran",
+        "category": "american restaurant, american food, restaurant"
+      },
+      "text": "KFC / KFC Coffee",
+      "place_name": "KFC / KFC Coffee, Jimbaran, Badung, Bali 80361, Indonesia",
+      "center": [
+        115.17895,
+        -8.781986
+      ],
+      "geometry": {
+        "coordinates": [
+          115.17895,
+          -8.781986
+        ],
+        "type": "Point"
+      },
+      "context": [
+        {
+          "id": "neighborhood.6513834955906040",
+          "wikidata": "Q670243",
+          "text": "Jimbaran"
+        },
+        {
+          "id": "postcode.12496051399879200",
+          "text": "80361"
+        },
+        {
+          "id": "locality.11119517543732700",
+          "text": "Kuta Selatan"
+        },
+        {
+          "id": "place.13605791678589480",
+          "wikidata": "Q11482",
+          "text": "Badung"
+        },
+        {
+          "id": "region.9012896814698400",
+          "wikidata": "Q4648",
+          "text": "Bali"
+        },
+        {
+          "id": "country.12065990263114360",
+          "wikidata": "Q252",
+          "short_code": "id",
+          "text": "Indonesia"
+        }
+      ]
+    },
+    {
+      "id": "poi.257698124249",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "4d38d15d4215f04d058dccf8",
+        "landmark": true,
+        "address": "Jalan Demang Lebar Daun No. 89",
+        "category": "american restaurant, american food, restaurant"
+      },
+      "text": "KFC / KFC Coffee",
+      "place_name": "KFC / KFC Coffee, Jalan Demang Lebar Daun No. 89, Palembang, South Sumatra 30137, Indonesia",
+      "center": [
+        104.730298,
+        -2.972172
+      ],
+      "geometry": {
+        "coordinates": [
+          104.730298,
+          -2.972172
+        ],
+        "type": "Point"
+      },
+      "context": [
+        {
+          "id": "neighborhood.4995163941631540",
+          "text": "Lorok Pakjo"
+        },
+        {
+          "id": "postcode.5787153424647410",
+          "text": "30137"
+        },
+        {
+          "id": "locality.9079111730834030",
+          "text": "Ilir Barat I"
+        },
+        {
+          "id": "place.7544957964381810",
+          "wikidata": "Q8131",
+          "text": "Palembang"
+        },
+        {
+          "id": "region.9991656746862370",
+          "wikidata": "Q2271",
+          "short_code": "ID-SS",
+          "text": "South Sumatra"
+        },
+        {
+          "id": "country.12065990263114360",
+          "wikidata": "Q252",
+          "short_code": "id",
+          "text": "Indonesia"
+        }
+      ]
+    },
+    {
+      "id": "poi.1099511643836",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "4ed31b3d775bbb5f3619b975",
+        "landmark": true,
+        "address": "Jalan Setiabudi No. 111-112",
+        "category": "american restaurant, american food, restaurant"
+      },
+      "text": "KFC",
+      "place_name": "KFC, Jalan Setiabudi No. 111-112, Semarang, Central Java 50263, Indonesia",
+      "center": [
+        110.411756,
+        -7.066232
+      ],
+      "geometry": {
+        "coordinates": [
+          110.411756,
+          -7.066232
+        ],
+        "type": "Point"
+      },
+      "context": [
+        {
+          "id": "neighborhood.7304726073314860",
+          "wikidata": "Q25259110",
+          "text": "Srondol Kulon"
+        },
+        {
+          "id": "postcode.3289721379301200",
+          "text": "50263"
+        },
+        {
+          "id": "locality.4404410698311260",
+          "wikidata": "Q25259136",
+          "text": "Banyumanik"
+        },
+        {
+          "id": "place.11130532093902760",
+          "wikidata": "Q11025",
+          "text": "Semarang"
+        },
+        {
+          "id": "region.10041948516689550",
+          "wikidata": "Q3557",
+          "short_code": "ID-JT",
+          "text": "Central Java"
+        },
+        {
+          "id": "country.12065990263114360",
+          "wikidata": "Q252",
+          "short_code": "id",
+          "text": "Indonesia"
+        }
+      ]
+    },
+    {
+      "id": "poi.360777259501",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "4fd5277fe4b0cb311f80b564",
+        "landmark": true,
+        "address": "Merapi Merbabu Hotel",
+        "category": "american restaurant, american food, restaurant"
+      },
+      "text": "KFC",
+      "place_name": "KFC, Merapi Merbabu Hotel, Sleman, Special Region of Yogyakarta 55281, Indonesia",
+      "center": [
+        110.409787,
+        -7.771257
+      ],
+      "geometry": {
+        "coordinates": [
+          110.409787,
+          -7.771257
+        ],
+        "type": "Point"
+      },
+      "context": [
+        {
+          "id": "neighborhood.9336061175386930",
+          "text": "Catur Tunggal"
+        },
+        {
+          "id": "postcode.8951139495270700",
+          "text": "55281"
+        },
+        {
+          "id": "locality.10892074739937580",
+          "text": "Depok"
+        },
+        {
+          "id": "place.7147277937430560",
+          "wikidata": "Q11480",
+          "text": "Sleman"
+        },
+        {
+          "id": "region.4059966983247180",
+          "wikidata": "Q3741",
+          "short_code": "ID-YO",
+          "text": "Special Region of Yogyakarta"
+        },
+        {
+          "id": "country.12065990263114360",
+          "wikidata": "Q252",
+          "short_code": "id",
+          "text": "Indonesia"
+        }
+      ]
+    },
+    {
+      "id": "poi.584115574549",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "4f9bf011e4b0edc56101b1ba",
+        "landmark": true,
+        "address": "Jl. Margonda Raya No. 338",
+        "category": "american restaurant, american food, restaurant"
+      },
+      "text": "KFC / KFC Coffee",
+      "place_name": "KFC / KFC Coffee, Jl. Margonda Raya No. 338, Depok, West Java 16423, Indonesia",
+      "center": [
+        106.832574,
+        -6.374419
+      ],
+      "geometry": {
+        "coordinates": [
+          106.832574,
+          -6.374419
+        ],
+        "type": "Point"
+      },
+      "context": [
+        {
+          "id": "neighborhood.7158346333545990",
+          "text": "Kemirimuka"
+        },
+        {
+          "id": "postcode.6107059716805490",
+          "text": "16423"
+        },
+        {
+          "id": "locality.11694461268054490",
+          "wikidata": "Q25247472",
+          "text": "Beji"
+        },
+        {
+          "id": "place.3871078196937580",
+          "wikidata": "Q10396",
+          "text": "Depok"
+        },
+        {
+          "id": "region.10085814914603250",
+          "wikidata": "Q3724",
+          "short_code": "ID-JB",
+          "text": "West Java"
+        },
+        {
+          "id": "country.12065990263114360",
+          "wikidata": "Q252",
+          "short_code": "id",
+          "text": "Indonesia"
+        }
+      ]
+    },
+    {
+      "id": "poi.1185410989075",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "4bb36db442959c74a6e4212c",
+        "landmark": true,
+        "address": "Jl. Tebet Utara Raya No. 10",
+        "category": "american restaurant, american food, restaurant"
+      },
+      "text": "KFC",
+      "place_name": "KFC, Jl. Tebet Utara Raya No. 10, Jakarta Selatan, Jakarta 12810, Indonesia",
+      "center": [
+        106.848795,
+        -6.229458
+      ],
+      "geometry": {
+        "coordinates": [
+          106.848795,
+          -6.229458
+        ],
+        "type": "Point"
+      },
+      "context": [
+        {
+          "id": "neighborhood.12470822143633950",
+          "wikidata": "Q13097792",
+          "text": "Tebet Barat"
+        },
+        {
+          "id": "postcode.9719667555653400",
+          "text": "12810"
+        },
+        {
+          "id": "locality.15075804550905310",
+          "wikidata": "Q193037",
+          "text": "Tebet"
+        },
+        {
+          "id": "place.10428568431672430",
+          "wikidata": "Q10114",
+          "text": "Jakarta Selatan"
+        },
+        {
+          "id": "region.9560480445057670",
+          "wikidata": "Q3630",
+          "short_code": "ID-JK",
+          "text": "Jakarta"
+        },
+        {
+          "id": "country.12065990263114360",
+          "wikidata": "Q252",
+          "short_code": "id",
+          "text": "Indonesia"
+        }
+      ]
+    },
+    {
+      "id": "poi.111669210354",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "50a498dfe4b0d9744ec0d7bd",
+        "landmark": true,
+        "address": "Jl. Salemba Raya No. 26",
+        "category": "indonesian restaurant, indonesian food, restaurant"
+      },
+      "text": "KFC / KFC Coffee",
+      "place_name": "KFC / KFC Coffee, Jl. Salemba Raya No. 26, Jakarta Pusat, Jakarta 10440, Indonesia",
+      "center": [
+        106.849997,
+        -6.194913
+      ],
+      "geometry": {
+        "coordinates": [
+          106.849997,
+          -6.194913
+        ],
+        "type": "Point"
+      },
+      "context": [
+        {
+          "id": "neighborhood.10683688446771720",
+          "wikidata": "Q7141893",
+          "text": "Paseban"
+        },
+        {
+          "id": "postcode.10536286723992190",
+          "text": "10440"
+        },
+        {
+          "id": "locality.8798377004679280",
+          "wikidata": "Q192871",
+          "text": "Senen"
+        },
+        {
+          "id": "place.17336764669006490",
+          "wikidata": "Q10109",
+          "text": "Jakarta Pusat"
+        },
+        {
+          "id": "region.9560480445057670",
+          "wikidata": "Q3630",
+          "short_code": "ID-JK",
+          "text": "Jakarta"
+        },
+        {
+          "id": "country.12065990263114360",
+          "wikidata": "Q252",
+          "short_code": "id",
+          "text": "Indonesia"
+        }
+      ]
+    },
+    {
+      "id": "poi.386547060022",
+      "type": "Feature",
+      "place_type": [
+        "poi"
+      ],
+      "relevance": 1,
+      "properties": {
+        "foursquare": "4d7744cea7e6b1f7c1eb22df",
+        "landmark": true,
+        "address": "Bandar Seri Iskandar",
+        "category": "american restaurant, american food, restaurant"
+      },
+      "text": "KFC",
+      "place_name": "KFC, Bandar Seri Iskandar, Bandar Seri Iskandar, Perak 32610, Malaysia",
+      "center": [
+        100.980215,
+        4.366917
+      ],
+      "geometry": {
+        "coordinates": [
+          100.980215,
+          4.366917
+        ],
+        "type": "Point"
+      },
+      "context": [
+        {
+          "id": "postcode.5472725272104760",
+          "text": "32610"
+        },
+        {
+          "id": "place.5472725272744980",
+          "text": "Bandar Seri Iskandar"
+        },
+        {
+          "id": "region.10001176406632410",
+          "wikidata": "Q188953",
+          "short_code": "MY-08",
+          "text": "Perak"
+        },
+        {
+          "id": "country.10264393709009960",
+          "wikidata": "Q833",
+          "short_code": "my",
+          "text": "Malaysia"
+        }
+      ]
+    }
+  ],
+  "attribution": "NOTICE: © 2021 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}
